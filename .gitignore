@@ -1,3 +1,4 @@
 /rangoenv
 __pycache__
 secret.py
+.vscode/
