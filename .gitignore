@@ -3,3 +3,4 @@ __pycache__
 secret.py
 .vscode/
 db.sqlite3
+test.py
